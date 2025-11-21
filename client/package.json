@@ -1,0 +1,9 @@
+{
+  "name": "alf-client",
+  "version": "1.0.0",
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "react-leaflet": "^4.2.1",
+    "react-image-lightbox": "^6.1.0"
+  }
+}
